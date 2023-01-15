@@ -43,4 +43,4 @@ jobs:
           with:
             context: .
             push: true
-            tags: kaememerel/se_hello_printer_app-1:first
+            tags: kaememerel/se_hello_printer_app-1:second
